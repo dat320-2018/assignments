@@ -670,7 +670,7 @@ otherwise noted.
 
 16. Autograder will now build and run a test suite on the code you submitted.
     You can check the output by going the [Autograder web
-    interface](http://autograder.ux.uis.no/). The results (build log) should be
+    interface](http://ag3.ux.uis.no/). The results (build log) should be
     available under "Individual - lab1". Note that the results shows output
     for all the tests in current lab assignment. You will want to focus on the
     output for the specific test results related to the task you're working on.
