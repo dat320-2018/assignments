@@ -679,17 +679,7 @@ otherwise noted.
 
 18. If some of the autograder tests fail, you may make changes to your code/answers.
 
-19. When you are finished with all the tasks for the current lab, and wish
-    to submit, then first make sure you commit your changes and write only the
-    following: `username labX submission` in the first line of the commit
-    message, where you replace `username` with your GitHub username and `X`
-    with the lab number. Your usage of slip days will be calculated based on
-    when you pushed this commit to GitHub. If there are any issues you want us
-    to pay attention to, please add those comments after an empty line in the
-    commit message. If you later find a mistake and want to resubmit, please
-    use `username labX resubmission` as the commit message.
-
-20. Push your changes using `git push labs`. You should be able to view your
+19. Push your changes using `git push labs`. You should be able to view your
     results in the Autograder web interface as described earlier.
 
 ## Lab Approval
