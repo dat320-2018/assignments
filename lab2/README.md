@@ -99,7 +99,7 @@ _, ok := someMap[0]
 
 ## Writing Go Code
 
-[Visual Studio Code](https://code.visualstudio.com/) is a great cross-platform editor with support for the Go language through [an extension](https://code.visualstudio.com/docs/languages/go). We recommend using this editor especially for debugging.
+[Visual Studio Code](https://code.visualstudio.com/) is a great cross-platform editor with support for the Go language through [an extension](https://code.visualstudio.com/docs/languages/go). We recommend using this editor since it is easy to setup and has good support for debugging.
 
 If you prefer some other editor there exist Go support for many editors, among others, vim and Eclipse. See [go-lang.cat-v.org/text-editors](http://go-lang.cat-v.org/text-editors/) for others.
 Note that early versions of the Golang Eclipse plugin was pretty flaky, but this might have improved over the years, so feel free to try it out.
