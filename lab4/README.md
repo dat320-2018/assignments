@@ -216,7 +216,7 @@ ready to show your solution, reach out to a member of the teaching staff.  It
 is expected that you can explain your code and show how it works. You may show
 your solution on a lab workstation or your own computer. The results from
 Autograder will also be taken into consideration when approving a lab. At least
-60% of the Autograder tests should pass for the lab to be approved. A lab needs
+60% of the Autograder tests should pass for the lab to be approved. But in addition to having 60% tests passing having a solution (at least partial solution) for each and every task is also mandatory.  A lab needs
 to be approved before Autograder will provide feedback on the next lab
 assignment.
 
