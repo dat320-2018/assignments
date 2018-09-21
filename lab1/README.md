@@ -698,4 +698,3 @@ feedback on the next lab assignment.
 Also see the [Grading and Collaboration
 Policy](https://github.com/uis-dat320-fall18/course-info/blob/master/policy.md)
 document for additional information.
-
