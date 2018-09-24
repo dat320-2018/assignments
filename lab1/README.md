@@ -670,7 +670,7 @@ otherwise noted.
 
 16. Autograder will now build and run a test suite on the code you submitted.
     You can check the output by going the [Autograder web
-    interface](http://autograder.ux.uis.no/). The results (build log) should be
+    interface](http://ag3.ux.uis.no/). The results (build log) should be
     available under "Individual - lab1". Note that the results shows output
     for all the tests in current lab assignment. You will want to focus on the
     output for the specific test results related to the task you're working on.
@@ -679,17 +679,7 @@ otherwise noted.
 
 18. If some of the autograder tests fail, you may make changes to your code/answers.
 
-19. When you are finished with all the tasks for the current lab, and wish
-    to submit, then first make sure you commit your changes and write only the
-    following: `username labX submission` in the first line of the commit
-    message, where you replace `username` with your GitHub username and `X`
-    with the lab number. Your usage of slip days will be calculated based on
-    when you pushed this commit to GitHub. If there are any issues you want us
-    to pay attention to, please add those comments after an empty line in the
-    commit message. If you later find a mistake and want to resubmit, please
-    use `username labX resubmission` as the commit message.
-
-20. Push your changes using `git push labs`. You should be able to view your
+19. Push your changes using `git push labs`. You should be able to view your
     results in the Autograder web interface as described earlier.
 
 ## Lab Approval
@@ -708,4 +698,3 @@ feedback on the next lab assignment.
 Also see the [Grading and Collaboration
 Policy](https://github.com/uis-dat320-fall18/course-info/blob/master/policy.md)
 document for additional information.
-

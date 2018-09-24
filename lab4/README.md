@@ -106,7 +106,7 @@ CSP-based concurrent programming capabilities. A place to start can be the intro
 found [here](http://golang.org/doc/effective_go.html#concurrency). For inspiration on
 how to solve this specific task, look at Chapter 7.2.3 in M. Summerfield, Programming in
 Go: Creating Applications for the 21st Century (Developer’s Library), 1st ed. Addison-
-Wesley Professional, 5 2012. The sub chapter is available as a [pdf](https://stavanger.instructure.com/files/67324/download?download_frd=1) on canvas. Note
+Wesley Professional, 5 2012. The sub chapter is available as a [pdf](http://www.iakovlev.org/zip/go.pdf) on canvas. Note
 that you should also ensure that the stack operations are implemented correctly. You can
 verify them by running the TestOpsCspStack test.
 ```
@@ -216,7 +216,7 @@ ready to show your solution, reach out to a member of the teaching staff.  It
 is expected that you can explain your code and show how it works. You may show
 your solution on a lab workstation or your own computer. The results from
 Autograder will also be taken into consideration when approving a lab. At least
-60% of the Autograder tests should pass for the lab to be approved. A lab needs
+60% of the Autograder tests should pass for the lab to be approved. But in addition to having 60% tests passing having a solution (at least partial solution) for each and every task is also mandatory.  A lab needs
 to be approved before Autograder will provide feedback on the next lab
 assignment.
 
